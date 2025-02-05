@@ -1,0 +1,17 @@
+.inputForm{
+    width: 100%;
+    margin-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form{
+    text-align: center;
+    border-color: blue;
+    width: 50%;
+}
+
+.inputForm button{
+    margin-top: 3vh;
+}
