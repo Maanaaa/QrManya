@@ -3,7 +3,7 @@ export default function Header() {
     <nav className="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
       <div className="container">
         <a className="navbar-brand fw-bold" href="#">
-          QrManya
+            QrManya
         </a>
 
         <button
