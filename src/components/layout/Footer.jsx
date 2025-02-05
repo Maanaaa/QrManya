@@ -15,7 +15,7 @@ export default function Footer() {
         </a>
         <span className="text-body-secondary fw-bold">QrManya by Maanaaa</span>
         <p className="text-muted small">
-          An open-source QR code generator built with React, Vite, and React-Qr-Code.
+          An open-source QR code generator built with React, Vite, React-Qr-Code and Bootstrap.
         </p>
       </div>
 
