@@ -21,10 +21,10 @@ export default function Footer() {
 
       {/* Social Media Links */}
       <div className="d-flex justify-content-center mt-3">
-        <a className="text-body-secondary mx-3 fs-4" href="https://github.com/your-profile" target="_blank">
+        <a className="text-body-secondary mx-3 fs-4" href="https://github.com/maanaaa" target="_blank">
           <FontAwesomeIcon icon={faGithub} />
         </a>
-        <a className="text-body-secondary mx-3 fs-4" href="https://linkedin.com/in/your-profile" target="_blank">
+        <a className="text-body-secondary mx-3 fs-4" href="https://www.linkedin.com/in/théo-manya-659390282/" target="_blank">
           <FontAwesomeIcon icon={faLinkedin} />
         </a>
       </div>
