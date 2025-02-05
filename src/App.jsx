@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Header from '../src/components/layout/Header.jsx'
 import Form from '../src/components/ui/Form.jsx'
+import DisplayQrCode from './components/qrCode/QrCodeDisplay.jsx'
 import './App.css'
 
 export default function App() {
@@ -11,7 +12,7 @@ export default function App() {
     <>
       <Header />
       <Form />
-
+      <DisplayQrCode/>
     </>
   );
 }

@@ -1,3 +1,5 @@
+/** Form **/
+
 .inputForm{
     width: 100%;
     margin-top: 10vh;
@@ -14,4 +16,16 @@ form{
 
 .inputForm button{
     margin-top: 3vh;
+}
+
+/** QrCodeDisplay **/
+.displayQrCode{
+    margin: auto;
+    width: 15vw;
+    height: 15vw;
+}
+
+.displayQrCode img{
+    width: 100%;
+    height: 100%;
 }
