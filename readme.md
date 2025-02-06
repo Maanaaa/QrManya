@@ -5,9 +5,9 @@
 
 ## Features
 
-  - \*\*Color customization \*\*: Adapt the colors of the QR Code and its background to your style.
-  - \*\*Size adjustment \*\*: Choose the perfect size for your QR Code.
-  - \*\*PNG export \*\*: Easily download your QR Codes in high definition.
+  - \*\*Color customization \*\*: Adapt the colors of the QR Code and its background to your style. ❌ (soon)
+  - \*\*Size adjustment \*\*: Choose the perfect size for your QR Code. ❌ (soon)
+  - \*\*PNG export \*\*: Easily download your QR Codes in high definition. ❌ (soon)
   - **Instant generation ⚡**: Everything is processed directly on the client side for optimal speed.
   - **Fluid and responsive interface ️**: Modern and enjoyable user experience.
   - \*\*Usable online \*\*: Access QrManya from any device without installation.
@@ -17,8 +17,8 @@
 
   - ⚛️ **React**
   - ⚡ **Vite**
-  - **Tailwind CSS**
-  - **qrcode.react** ([GitHub Repository](https://github.com/zpao/qrcode.react))
+  - **Bootstrap**
+  - **react-qr-code** ([GitHub Repository](https://github.com/rosskhanas/react-qr-code))
 
 ## Installation ️
 
@@ -26,15 +26,20 @@ Before starting, make sure you have installed the necessary prerequisites:
 
   - **Git**: [Installation](https://www.google.com/url?sa=E&source=gmail&q=https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   - **Node.js & npm**: [Installation](https://nodejs.org/)
+  - **React** [Installation](https://react.dev/learn/installation)
   - ️ **Vite**: [Official Guide](https://vitejs.dev/guide/)
-  - **Tailwind CSS**: [Documentation](https://tailwindcss.com/docs/installation)
+  - **Bootstrap** : [Documentation](https://getbootstrap.com/docs/5.2/getting-started/vite/)
+  - **react-qr-code** : ([GitHub Repository](https://github.com/rosskhanas/react-qr-code))
 
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/TonPseudo/QrManya.git
-cd QrManya/frontend
-npm install
+git clone https://github.com/Maanaaa/QrManya.git
+cd QrManya
+npm install vite
+npm install react-qr-code
+npm install bootstrap
+
 ```
 
 ## Usage
@@ -42,7 +47,7 @@ npm install
 Launch the application:
 
 ```bash
-npm start
+npm run dev
 ```
 
 Access [http://localhost:3000](http://localhost:3000) in your browser to start generating QR Codes\!
@@ -59,9 +64,9 @@ Contributions are welcome\! If you have any suggestions, corrections or improvem
 
 ## Fonctionnalités
 
-  - \*\*Personnalisation des couleurs \*\*: Adaptez les couleurs du QR Code et de son fond selon votre style.
-  - \*\*Ajustement de la taille \*\*: Choisissez la taille parfaite pour votre QR Code.
-  - \*\*Exportation en PNG \*\*: Téléchargez facilement vos QR Codes en haute définition.
+  - \*\*Personnalisation des couleurs \*\*: Adaptez les couleurs du QR Code et de son fond selon votre style. ❌ (soon)
+  - \*\*Ajustement de la taille \*\*: Choisissez la taille parfaite pour votre QR Code. ❌ (soon)
+  - \*\*Exportation en PNG \*\*: Téléchargez facilement vos QR Codes en haute définition. ❌ (soon)
   - **Génération instantanée ⚡**: Tout est traité directement côté client pour une rapidité optimale.
   - **Interface fluide et réactive ️**: Expérience utilisateur moderne et agréable.
   - \*\*Utilisable en ligne \*\*: Accédez à QrManya depuis n'importe quel appareil sans installation.
@@ -71,24 +76,28 @@ Contributions are welcome\! If you have any suggestions, corrections or improvem
 
   - ⚛️ **React**
   - ⚡ **Vite**
-  - **Tailwind CSS**
-  - **qrcode.react** ([Dépôt GitHub](https://github.com/zpao/qrcode.react))
+  - **Bootstrap**
+  - **react-qr-code** ([GitHub Repository](https://github.com/rosskhanas/react-qr-code))
 
 ## Installation ️
 
 Avant de commencer, assurez-vous d'avoir installé les prérequis nécessaires :
 
-  - **Git** : [Installation](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git)
-  - **Node.js & npm** : [Installation](https://nodejs.org/)
-  - ️ **Vite** : [Guide officiel](https://vitejs.dev/guide/)
-  - **Tailwind CSS** : [Documentation](https://tailwindcss.com/docs/installation)
+  - **Git**: [Installation](https://www.google.com/url?sa=E&source=gmail&q=https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  - **Node.js & npm**: [Installation](https://nodejs.org/)
+  - **React** [Installation](https://react.dev/learn/installation)
+  - ️ **Vite**: [Official Guide](https://vitejs.dev/guide/)
+  - **Bootstrap** : [Documentation](https://getbootstrap.com/docs/5.2/getting-started/vite/)
+  - **react-qr-code** : ([GitHub Repository](https://github.com/rosskhanas/react-qr-code))
 
 Clonez le dépôt et installez les dépendances :
 
 ```bash
-git clone https://github.com/TonPseudo/QrManya.git
-cd QrManya/frontend
-npm install
+git clone https://github.com/Maanaaa/QrManya.git
+cd QrManya
+npm install vite
+npm install react-qr-code
+npm install bootstrap
 ```
 
 ## Utilisation
@@ -96,10 +105,10 @@ npm install
 Lancez l'application :
 
 ```bash
-npm start
+npm run dev
 ```
 
-Accédez à [http://localhost:3000](http://localhost:3000) dans votre navigateur pour commencer à générer des QR Codes \!
+Accédez à [http://localhost:4000](http://localhost:4000) dans votre navigateur pour commencer à générer des QR Codes \!
 
 ## Contribution
 
