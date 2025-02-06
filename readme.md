@@ -60,17 +60,16 @@ Contributions are welcome\! If you have any suggestions, corrections or improvem
 
 # QrManya ✨
 
-**QrManya** est une application moderne et intuitive permettant de générer des QR Codes personnalisables directement depuis votre navigateur. Personnalisez les couleurs, la taille et téléchargez vos QR Codes en haute qualité sans dépendance à un serveur externe \!
+**QrManya** est une application moderne et intuitive permettant de générer des QR Codes personnalisables directement depuis votre navigateur. Personnalisez les couleurs, la taille et téléchargez vos QR Codes en haute qualité sans dépendance à un serveur externe !
 
 ## Fonctionnalités
-
-  - \*\*Personnalisation des couleurs \*\*: Adaptez les couleurs du QR Code et de son fond selon votre style. ❌ (soon)
-  - \*\*Ajustement de la taille \*\*: Choisissez la taille parfaite pour votre QR Code. ❌ (soon)
-  - \*\*Exportation en PNG \*\*: Téléchargez facilement vos QR Codes en haute définition. ❌ (soon)
+  - **Personnalisation des couleurs**: Adaptez les couleurs du QR Code et de son fond selon votre style. ❌ (soon)
+  - **Ajustement de la taille**: Choisissez la taille parfaite pour votre QR Code. ❌ (soon)
+  - **Exportation en PNG**: Téléchargez facilement vos QR Codes en haute définition. ❌ (soon)
   - **Génération instantanée ⚡**: Tout est traité directement côté client pour une rapidité optimale.
   - **Interface fluide et réactive ️**: Expérience utilisateur moderne et agréable.
-  - \*\*Utilisable en ligne \*\*: Accédez à QrManya depuis n'importe quel appareil sans installation.
-  - \*\*Testez en ligne \*\*: Essayez QrManya directement sur [GitHub Pages](https://maanaaa.github.io/qrmanya).
+  - **Utilisable en ligne**: Accédez à QrManya depuis n'importe quel appareil sans installation.
+  - **Testez en ligne**: Essayez QrManya directement sur [GitHub Pages](https://maanaaa.github.io/qrmanya).
 
 ## Technologies utilisées ️
 
