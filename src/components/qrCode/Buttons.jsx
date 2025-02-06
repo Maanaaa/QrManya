@@ -15,7 +15,7 @@ export const downloadQRCode = (qrRef) => {
         canvas.height = svg.clientHeight;
         const canvasContext = canvas.getContext('2d');
 
-        canvasContext.drawImage(image, 0, 0);
+        canvasContext.drawImage(image, 0, 0, 100, 100);
         URL.revokeObjectURL(url);
 
         const pngURL = canvas.toDataURL('image/png');
