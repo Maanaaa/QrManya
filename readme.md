@@ -11,7 +11,7 @@
   - **Instant generation ⚡**: Everything is processed directly on the client side for optimal speed.
   - **Fluid and responsive interface ️**: Modern and enjoyable user experience.
   - **Usable online**: Access QrManya from any device without installation.
-  - **Test online**: Try QrManya directly on [GitHub Pages](https://maanaaa.github.io/QrManya/).
+  - **Test online**: Try QrManya directly on [GitHub Pages](https://qrmanya.netlify.app).
 
 ## Technologies used ️
 
@@ -69,7 +69,7 @@ Contributions are welcome\! If you have any suggestions, corrections or improvem
   - **Génération instantanée ⚡**: Tout est traité directement côté client pour une rapidité optimale.
   - **Interface fluide et réactive ️**: Expérience utilisateur moderne et agréable.
   - **Utilisable en ligne**: Accédez à QrManya depuis n'importe quel appareil sans installation.
-  - **Testez en ligne**: Essayez QrManya directement sur [GitHub Pages](https://maanaaa.github.io/QrManya/).
+  - **Testez en ligne**: Essayez QrManya directement sur [GitHub Pages](https://qrmanya.netlify.app).
 
 ## Technologies utilisées ️
 
