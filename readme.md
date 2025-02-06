@@ -5,13 +5,13 @@
 
 ## Features
 
-  - \*\*Color customization \*\*: Adapt the colors of the QR Code and its background to your style. ❌ (soon)
-  - \*\*Size adjustment \*\*: Choose the perfect size for your QR Code. ❌ (soon)
-  - \*\*PNG export \*\*: Easily download your QR Codes in high definition. ❌ (soon)
+  - **Color customization**: Adapt the colors of the QR Code and its background to your style. ❌ (soon)
+  - **Size adjustment**: Choose the perfect size for your QR Code. ❌ (soon)
+  - **PNG export**: Easily download your QR Codes in high definition. ❌ (soon)
   - **Instant generation ⚡**: Everything is processed directly on the client side for optimal speed.
   - **Fluid and responsive interface ️**: Modern and enjoyable user experience.
-  - \*\*Usable online \*\*: Access QrManya from any device without installation.
-  - \*\*Test online \*\*: Try QrManya directly on [GitHub Pages](https://maanaaa.github.io/qrmanya).
+  - **Usable online**: Access QrManya from any device without installation.
+  - **Test online**: Try QrManya directly on [GitHub Pages](https://maanaaa.github.io/qrmanya).
 
 ## Technologies used ️
 
