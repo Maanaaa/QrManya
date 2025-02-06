@@ -1,9 +1,9 @@
 import QRCode from "react-qr-code";
 
-export default function DisplayQrCode({qrValue = null}) {
-    return(
-        <div className="displayQrCode border border-primary">
-            <QRCode value={qrValue} size="100%" />
+export default function DisplayQrCode({ qrValue, qrRef }) {
+    return (
+        <div className="displayQrCode border border-primary" ref={qrRef}>
+            <QRCode value={qrValue} size="100%" bgColor="blue" fgColor="white" level="M" />
         </div>
     );
 }

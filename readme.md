@@ -11,7 +11,7 @@
   - **Instant generation ⚡**: Everything is processed directly on the client side for optimal speed.
   - **Fluid and responsive interface ️**: Modern and enjoyable user experience.
   - **Usable online**: Access QrManya from any device without installation.
-  - **Test online**: Try QrManya directly on [GitHub Pages](https://qrmanya.netlify.app).
+  - **Test online**: Try QrManya directly on [Netflify App](https://qrmanya.netlify.app).
 
 ## Technologies used ️
 
@@ -76,7 +76,7 @@ Contributions are welcome\! If you have any suggestions, corrections or improvem
   - ⚛️ **React**
   - ⚡ **Vite**
   - **Bootstrap**
-  - **react-qr-code** ([GitHub Repository](https://github.com/rosskhanas/react-qr-code))
+  - **react-qr-code** ([Netflify App](https://github.com/rosskhanas/react-qr-code))
 
 ## Installation ️
 
